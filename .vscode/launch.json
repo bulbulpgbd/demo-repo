@@ -7,7 +7,7 @@
       "name": "ng serve",
       "type": "pwa-chrome",
       "request": "launch",
-      "preLaunchTask": "npm: start",
+      "preLaunchTask": "npm: start-1",
       "url": "http://localhost:4200/"
     },
     {
